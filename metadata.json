@@ -1,0 +1,7 @@
+{
+  "name": "Skill Discovery",
+  "description": "AI-based student skill discovery and collaborative decision-support platform with offline-first Room caching, peer skill matching, achievement logging, and class community discussions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

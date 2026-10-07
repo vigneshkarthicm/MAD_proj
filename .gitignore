@@ -1,0 +1,52 @@
+## Android / Gradle
+*.iml
+.gradle
+.kotlin
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+**/build/
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+debug.keystore
+*.keystore
+*.jks
+
+## Secrets / environment files
+.env
+.env.local
+.env.*.local
+
+## SQLite databases
+*.db
+*.sqlite
+*.sqlite3
+
+## Logcat / device logs
+*.logcat
+
+## Python / backend
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+.pytest_cache/
+.venv/
+venv/
+env/
+.tox/
+
+## OS metadata
+Thumbs.db
+
